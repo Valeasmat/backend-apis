@@ -1,5 +1,13 @@
 {
 	"author": "Valeria Asmat",
+	"description": "Learning with free code camp",
+	"keywords": [
+		"freecodecamp",
+		"npm",
+		"packages"
+	],
+	"license": "myself",
+	"version": "1.0.0",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
